@@ -1,0 +1,24 @@
+{
+  "name": "fakedata.js",
+  "version": "0.0.1",
+  "description": "a alternative to faker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0net/fakedata.js.git"
+  },
+  "keywords": [
+    "faker.js",
+    "fakedata.js",
+    "s0net"
+  ],
+  "author": "steve, s0net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0net/fakedata.js/issues"
+  },
+  "homepage": "https://github.com/s0net/fakedata.js#readme"
+}
