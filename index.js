@@ -12,7 +12,7 @@ const age = Math.floor(Math.random() * (80 - 10 + 1)) - 1;
 const animal = pick(animals)
 const bird = pick(birds)
 
-const list = {
+module.exports = {
     username: username,
     domain: domain,
     email: email,
@@ -20,5 +20,3 @@ const list = {
     animal: animal,
     bird: bird
 };
-
-console.log(list);
