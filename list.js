@@ -16,7 +16,22 @@ const names = [
     "Billy",
     "Calvin",
     "jay",
-    "Christina"
+    "Christina",
+    "Ambur",
+    "Winny",
+    "Wilow",
+    "Vikky",
+    "Shane",
+    "Scarlet",
+    "Rea",
+    "Luke",
+    "Lois",
+    "Jojo",
+    "Ema",
+    "Arden",
+    "Agatha",
+    "Grace",
+    "Rocky"
 ];
 
 const domains = [
@@ -30,7 +45,14 @@ const domains = [
     "w3.org",
     "microsoft.com",
     "vscode.com",
-    "github.com"
+    "github.com",
+    "lookcool.com",
+    "mailsite.oi",
+    "potter.com",
+    "droid.com",
+    "lukop.dk",
+    "mail1.com",
+    "filter.com"
 ];
 
 const animals = [
@@ -42,6 +64,15 @@ const animals = [
     "deer",
     "wolf",
     "forg",
+    "bear",
+    "bull",
+    "cow",
+    "doe",
+    "alligator",
+    "leopard",
+    "hamster",
+    "donkey",
+    "armadillo"
 ];
 
 const birds = [
@@ -72,4 +103,4 @@ const birds = [
 exports.names = names;
 exports.birds = birds;
 exports.animals = animals;
-exports.domains = domains
+exports.domains = domains;

@@ -14,3 +14,5 @@ it will retrun somthing like
   animal: 'wolf',
   bird: 'vulture'
 }</pre>
+
+we have 33 diffrent names 22 diffrent birds 17 diffrent animals and 18 domains it is less but we are becoming better
