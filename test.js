@@ -1,3 +1,3 @@
-const fakedata = require("./index")
+const list = require("./index");
 
-console.log(fakedata)
+console.log(list);

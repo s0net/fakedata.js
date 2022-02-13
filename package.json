@@ -1,7 +1,7 @@
 {
   "name": "@s0net-steve/fakedata.js",
-  "version": "1.0.2",
-  "description": "a alternative to faker.js",
+  "version": "1.0.3",
+  "description": "A alternative to faker.js",
   "main": "index.js",
   "scripts": {
     "test": "node ."

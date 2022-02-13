@@ -7,12 +7,12 @@ then add <pre>const fakedata = require("@s0net-steve/fakedata.js")</pre> to your
 
 it will retrun somthing like
 <pre>{
-  username: 'Ron',
-  domain: 'w3.org',
-  email: 'Ron@w3.org',
-  age: 35,
-  animal: 'wolf',
-  bird: 'vulture'
+  username: 'Lois',
+  domain: 'mailsite.io',
+  email: 'Lois@mailsite.io',
+  age: 41,
+  animal: 'lizard',
+  bird: 'kiwi'
 }</pre>
 
-we have 33 diffrent names 22 diffrent birds 17 diffrent animals and 18 domains it is less but we are becoming better
+we have 39 diffrent names 22 diffrent birds 17 diffrent animals and 24 domains it is less but we are becoming better

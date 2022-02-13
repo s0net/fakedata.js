@@ -31,14 +31,19 @@ const names = [
     "Arden",
     "Agatha",
     "Grace",
-    "Rocky"
+    "Rocky",
+    "Ricky",
+    "Sophia",
+    "Tina",
+    "Lily",
+    "Linda",
+    "Emalee",
 ];
 
 const domains = [
     "google.com",
     "yahoo.com",
     "nothing.com",
-    "bit.net",
     "coin.com",
     "flutter.org",
     "w3schools.com",
@@ -47,12 +52,19 @@ const domains = [
     "vscode.com",
     "github.com",
     "lookcool.com",
-    "mailsite.oi",
+    "mailsite.io",
     "potter.com",
     "droid.com",
-    "lukop.dk",
     "mail1.com",
-    "filter.com"
+    "mail.com",
+    "mail.net",
+    "mail.org",
+    "mail.net",
+    "techworld.app",
+    "techworld.com",
+    "apple.com",
+    "google.co.in",
+    "google.co.uk",
 ];
 
 const animals = [
@@ -100,7 +112,13 @@ const birds = [
     "owl"
 ];
 
+const pick = (arr) => {
+    const pic = Math.floor(Math.random() * arr.length);
+    return arr[pic];
+};
+
 exports.names = names;
 exports.birds = birds;
 exports.animals = animals;
 exports.domains = domains;
+exports.pick = pick;

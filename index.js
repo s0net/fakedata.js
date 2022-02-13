@@ -1,14 +1,9 @@
-const {names, domains, animals, birds} = require("./list");
-
-const pick = (arr) => {
-    const pic = Math.floor(Math.random() * arr.length);
-    return arr[pic];
-};
+const {names, domains, animals, birds, pick} = require("./list");
 
 const username = pick(names);
 const domain = pick(domains);
 const email = `${username}@${domain}`;
-const age = Math.floor(Math.random() * (80 - 10 + 1)) - 1;
+const age = Math.floor(Math.random() * 80);
 const animal = pick(animals);
 const bird = pick(birds);
 
