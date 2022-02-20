@@ -1,6 +1,6 @@
 {
   "name": "@s0net-steve/fakedata.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A alternative to faker.js",
   "main": "index.js",
   "scripts": {
